@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Aug 19 14:53:06 CST 2013
+default-http\://maven.springframework.org/release/.lastUpdated=1376895186354
+http\://maven.springframework.org/release/.error=Could not transfer artifact com.mova.opps\:opps-util\:pom\:1.0.0-SNAPSHOT from/to spring-release (http\://maven.springframework.org/release)\: null to http\://maven.springframework.org/release/com/mova/opps/opps-util/1.0.0-SNAPSHOT/opps-util-1.0.0-SNAPSHOT.pom
+https\://raw.github.com/air2013/maven/master/.error=
+https\://raw.github.com/air2013/maven/master/.lastUpdated=1376894642225
