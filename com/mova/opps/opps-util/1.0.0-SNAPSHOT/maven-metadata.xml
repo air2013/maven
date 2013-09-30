@@ -4,9 +4,7 @@
   <artifactId>opps-util</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
-    <snapshot>
-      <localCopy>true</localCopy>
-    </snapshot>
+    
     <lastUpdated>20130929050315</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
